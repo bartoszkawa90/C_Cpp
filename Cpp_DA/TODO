@@ -1,0 +1,11 @@
+What to do :
+
+    - different nice finctions from c++ to python
+    - decltype(a) - mona podać jako typ do zmiennej i nada zmiennej typ tego jaki będzie typ zmiennej a
+    - C++ keywords, https://en.cppreference.com/w/cpp/keyword
+    - constexpr - zmienna nie będzie zmianiać wartości. Dla funkcji You now can write complex functions 
+    that the compiler can evaluate at compile-time, allowing for optimizations 
+    and safer code by catching errors early
+    - Lambdy
+    - castowanie na ine typy
+    - coroutine i programowanie asynchroniczne

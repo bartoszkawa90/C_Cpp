@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.4...3.18)
+project(cpp_da)
+add_subdirectory(pybind11)
+# pybind11_add_module(cpp_da main.cpp)
+pybind11_add_module(cpp_da test.cpp)
